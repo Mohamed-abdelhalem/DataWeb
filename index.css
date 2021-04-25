@@ -482,7 +482,7 @@ transition: ease-in-all 3s;
 width: 300px;
 height: 300px;
 display: block ;
-margin: 40px 30px 50px 10%;
+margin: 40px 20px 50px 5%;
 }
 
 .p1
@@ -534,7 +534,7 @@ transition: 4s ease-in-all;
 {
 width: 300px;
 height: 400px;
-margin: 0px 30px;
+margin: 0px 20px;
 }
 
 
@@ -685,7 +685,7 @@ position: relative;
  height: 350px;
  border: 0.5px solid white;
  border-radius: 30px;
- margin: 20px 3% 20px 3%;
+ margin: 20px 5% 20px 5%;
  transform: scale(1.07);
  background-color: whitesmoke;
  display: block;
