@@ -460,7 +460,7 @@ display: inline-block;
 ul li
 {
 display: inline-block;
-font-size: 12px;
+font-size: 10px;
 margin: 40px 5px;
 }
 
@@ -556,7 +556,7 @@ margin: 0px 30px;
 {
  width: 300px;
  height: 100px;
- margin: 5px 15%;
+ margin: 5px 10%;
 }
 
 .web
@@ -681,11 +681,11 @@ position: relative;
 
 .content3
 {
- width: 350px;
+ width: 280px;
  height: 350px;
  border: 0.5px solid white;
  border-radius: 30px;
- margin: 20px 10% 20px 10%;
+ margin: 20px 5% 20px 5%;
  transform: scale(1.07);
  background-color: whitesmoke;
  display: block;
@@ -715,7 +715,7 @@ margin: 20px 30%;
 
 .pad
 {
-margin: 30px; 
+margin: 10px; 
 }
 
 .content3:hover
@@ -826,7 +826,7 @@ position: absolute;
 
 .name
 {
-font-size: 14px;
+font-size: 10px;
 font-weight: 600;
 text-align: center;
 color: black;
