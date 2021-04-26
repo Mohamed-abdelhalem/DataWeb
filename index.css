@@ -438,13 +438,13 @@ color: black ;
   body
   {
    font-family: arial;
-    overflow-x: hidden;
+    
   }
  
  .container
 {
  width: 407px;
- height: 950px;
+ height: 930px;
  background-color:  #000044;
 }
 
@@ -557,7 +557,7 @@ margin: 0px 30px;
 .container2
 {
  width: 407px;
- height: 750px;
+ height: 720px;
  background-color:  white;
 }
 
@@ -572,7 +572,7 @@ margin: 0px 30px;
 {
  width: 300px;
  height: 100px;
- margin: 5px 9%;
+ margin: 5px 11%;
 }
 
 .web
@@ -590,7 +590,7 @@ text-align: center;
 
 .btn2
 {
-margin: 100px 25%;
+margin: 80px 26%;
 width: 180px;
 height: 50px;
 color: black;
@@ -649,7 +649,7 @@ padding-bottom: 20px;
  height: 350px;
  border: 0.5px solid white;
  border-radius: 30px;
- margin: 20px 7% 20px 7%;
+ margin: 20px 7% 0px 7%;
 }
 
 .content2:hover
@@ -721,7 +721,8 @@ position: relative;
 
 .whyy
 {
-color: black; 
+color: black;
+width: 350px;
 }
 
 .why-img
@@ -763,7 +764,7 @@ background-color: black;
 .container5
 {
 width: 407px;
-height: 850px;
+height: 800px;
 background-color: #000033 ;
 padding-bottom: 10px;
 position: relative;
@@ -805,7 +806,7 @@ cursor: pointer;
 width: 110px;
 height: 50px;
 border-radius: 15px;
-margin: 15px 53%;
+margin: 10px 53%;
 color: red;
 font-size: 15px;
 cursor: pointer;
