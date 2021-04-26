@@ -441,7 +441,7 @@ color: black ;
  
  .container
 {
- width: 95%;
+ width: 103%;
  height: 950px;
  background-color:  #000044;
 }
@@ -546,7 +546,7 @@ margin: 0px 20px;
 
 .container2
 {
- width: 95%;
+ width: 102.5%;
  height: 800px;
  background-color:  white;
 }
@@ -598,7 +598,7 @@ background-color: black;
 
 .container3
 {
-width: 95%;
+width: 103%;
 height: auto;
 background-color: #000033 ;
 padding-bottom: 20px;
@@ -678,7 +678,7 @@ background-color: lightgray;
  
  .container4
 {
-width: 95%;
+width: 102%;
 height: auto;
 background-color: white ;
 padding-bottom: 150px;
