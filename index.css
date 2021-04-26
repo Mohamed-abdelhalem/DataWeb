@@ -434,7 +434,7 @@ color: black ;
 
 
 @media
-(max-width :360px)
+(max-width :380px)
 {
   body
   {
@@ -558,7 +558,7 @@ margin: 0px 30px;
 
 .container2
 {
- width: 100%;
+ width: 107%;
  height: 720px;
  background-color:  white;
 }
@@ -610,7 +610,7 @@ background-color: black;
 
 .container3
 {
-width: 100%;
+width: 107%;
 height: auto;
 background-color: #000033 ;
 padding-bottom: 20px;
@@ -690,7 +690,7 @@ background-color: lightgray;
  
  .container4
 {
-width: 100%;
+width: 107%;
 height: auto;
 background-color: white ;
 padding-bottom: 150px;
@@ -775,7 +775,7 @@ background-color: black;
 
 .container5
 {
-width: 100%;
+width: 107%;
 height: 750px;
 background-color: #000033 ;
 padding-bottom: 10px;
@@ -848,7 +848,7 @@ margin:  0;
 
 .footer
 {
-width: 100%;
+width: 107%;
 height: 40px;
 background-color: white;
 position: absolute;
