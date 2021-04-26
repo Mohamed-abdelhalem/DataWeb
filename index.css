@@ -448,7 +448,7 @@ color: black ;
   
 .logo
 {
- margin: 0px 3% 0 5% ;
+ margin: 0px 3% 0 2% ;
  display: inline-block;
 }
 
@@ -467,7 +467,7 @@ ul li
 {
 display: inline-block;
 font-size: 10px;
-margin: 40px 5px;
+margin: 40px 3px;
 }
 
 ul li a
@@ -488,7 +488,7 @@ transition: ease-in-all 3s;
 width: 300px;
 height: 300px;
 display: block ;
-margin: 60px 20px 30px 5%;
+margin: 60px 20px 30px 3%;
 }
 
 .p1
@@ -540,7 +540,7 @@ transition: 4s ease-in-all;
 {
 width: 300px;
 height: 400px;
-margin: 0px 20px;
+margin: 0px 10px;
 }
 
 
