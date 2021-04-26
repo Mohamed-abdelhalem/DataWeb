@@ -442,7 +442,7 @@ color: black ;
   body
   {
    font-family: arial;
-   overflow-y: hidden;
+    overflow-x: hidden;
   }
  
  .container
