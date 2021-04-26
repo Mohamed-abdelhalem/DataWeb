@@ -711,6 +711,9 @@ position: relative;
 {
  width: 330px;
  height: 200px;
+ font-size: 25px;
+ font-weight: 900;
+ text-align: center;
 }
 
 
