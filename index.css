@@ -443,7 +443,7 @@ color: black ;
  
  .container
 {
- width: 370px;
+ width: 405px;
  height: 930px;
  background-color:  #000044;
 }
@@ -556,7 +556,7 @@ margin: 0px 30px;
 
 .container2
 {
- width: 370px;
+ width: 405px;
  height: 720px;
  background-color:  white;
 }
@@ -608,7 +608,7 @@ background-color: black;
 
 .container3
 {
-width: 370px;
+width: 405px;
 height: auto;
 background-color: #000033 ;
 padding-bottom: 20px;
@@ -688,7 +688,7 @@ background-color: lightgray;
  
  .container4
 {
-width: 370px;
+width: 405px;
 height: auto;
 background-color: white ;
 padding-bottom: 150px;
@@ -763,7 +763,7 @@ background-color: black;
 
 .container5
 {
-width: 370px;
+width: 405px;
 height: 800px;
 background-color: #000033 ;
 padding-bottom: 10px;
@@ -836,7 +836,7 @@ margin:  0;
 
 .footer
 {
-width: 370px;
+width: 405px;
 height: 40px;
 background-color: white;
 position: absolute;
