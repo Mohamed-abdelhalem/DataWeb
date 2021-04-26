@@ -462,7 +462,7 @@ background-color: #000044;
   
 .logo
 {
- margin: 0px 3% 0 4% ;
+ margin: 0px 3% 0 5% ;
  display: inline-block;
 }
 
@@ -502,7 +502,7 @@ transition: ease-in-all 3s;
 width: 300px;
 height: 300px;
 display: block ;
-margin: 60px 20px 30px 3%;
+margin: 60px 20px 30px 5%;
 }
 
 .p1
@@ -554,13 +554,13 @@ transition: 4s ease-in-all;
 {
 width: 300px;
 height: 400px;
-margin: 0px 10px;
+margin: 0px 30px;
 }
 
 
 .container2
 {
- width: 100%;
+ width: 106%;
  height: 800px;
  background-color:  white;
 }
@@ -576,7 +576,7 @@ margin: 0px 10px;
 {
  width: 300px;
  height: 100px;
- margin: 5px 8%;
+ margin: 5px 9%;
 }
 
 .web
@@ -612,7 +612,7 @@ background-color: black;
 
 .container3
 {
-width: 102.5%;
+width: 106%;
 height: auto;
 background-color: #000033 ;
 padding-bottom: 20px;
@@ -620,10 +620,10 @@ padding-bottom: 20px;
 
 .third
 {
- width: 60%;
+ width: 70%;
  height: auto;
  background-color: #000033;
- margin: 0 10%;
+ margin: 0 12%;
  padding: 20px 20px 0;
 }
 
@@ -637,7 +637,7 @@ padding-bottom: 20px;
 
 .service
 {
- width: 70%;
+ width: 80%;
  height: auto;
  margin: 0 50px;
  flex-wrap: wrap;
@@ -649,7 +649,7 @@ padding-bottom: 20px;
 
 .content2
 {
- width: 350px;
+ width: 380px;
  height: 350px;
  border: 0.5px solid white;
  border-radius: 30px;
@@ -692,7 +692,7 @@ background-color: lightgray;
  
  .container4
 {
-width: 100%;
+width: 106%;
 height: auto;
 background-color: white ;
 padding-bottom: 150px;
@@ -701,11 +701,11 @@ position: relative;
 
 .content3
 {
- width: 280px;
+ width: 300px;
  height: 350px;
  border: 0.5px solid white;
  border-radius: 30px;
- margin: 20px 10% 20px 10%;
+ margin: 20px 12% 20px 12%;
  transform: scale(1.07);
  background-color: whitesmoke;
  display: block;
@@ -766,7 +766,7 @@ background-color: black;
 
 .container5
 {
-width: 103%;
+width: 106%;
 height: 850px;
 background-color: #000033 ;
 padding-bottom: 10px;
@@ -839,7 +839,7 @@ margin:  0;
 
 .footer
 {
-width: 95%;
+width: 106%;
 height: 40px;
 background-color: white;
 position: absolute;
